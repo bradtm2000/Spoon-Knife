@@ -7,3 +7,5 @@ issue05 change1
 issue07 change2
 issue08 change2
 issue09 change1
+------------
+issue10 change1 new atom git client
